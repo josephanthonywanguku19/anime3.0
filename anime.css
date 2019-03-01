@@ -1,0 +1,77 @@
+ .body{
+ background-image: url("animeimg/boku no hero full class.jpg");
+background-size:100%;
+}
+.q{
+    background-color: #c5c3c9;
+    -moz-border-radius: 50%;
+}
+.w{background-color:greenyellow;
+}
+.e{ background-color: yellow}
+.r{ font-style: normal;
+color: #d15d3b;
+font-size: 50px;}
+.t{
+    border-radius: 300px;
+}
+#y{background-color: #bbc5c9;
+}
+.u{
+    height: 32px;
+    width: 32px;
+}
+.i{
+    background-color: #b3c9aa;
+}
+.o{
+    font-size: xx-large;
+    color: #28a745;
+    font-family: "Apple Color Emoji";
+    height:50px;
+    width: 150px;
+}
+.jumbotron{
+    background-color: #73856c;
+    animation: alternate;
+}
+.btn-danger{ animation: infinite;
+border-radius: 300px}
+.p{
+    font-size: xx-large;
+    color: #a70f08;
+    font-family: "Apple Color Emoji";
+    height:50px;
+    width: 150px
+}
+.a{
+    background-color: #4e555b;
+}
+.s{
+    background-color: #adb5bd;
+}
+.d{
+    animation: ease-in-out;
+transition: 2000ms;
+}
+ .f{
+      margin: 140px ;
+  }
+ .g{
+     margin: 5px;
+
+ }
+ .h{
+     background-color: #adb5bd;
+ }
+ .j{
+     font-size: xx-large;
+     color: #a76388;
+     font-family: "Apple Color Emoji";
+     height:50px;
+     width: 150px
+
+ }
+ .k{
+     background-color: #dccd23;
+ }
